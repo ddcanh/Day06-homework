@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CreateStudentViewController.actionCreateStudent(AnyObject) -&gt; ():CreateStudentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "classIT">
+            </PersistentString>
+            <PersistentString
+               value = "classIT.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataManager.createNewStudent(name : String, address : String, birthday : NSDate, imageData : NSData, classIT : ClassEntity) -&gt; ():DataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "classIT.students.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StudentViewController.viewDidLoad() -&gt; ():StudentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "classIT">
+            </PersistentString>
+            <PersistentString
+               value = "self.classIT">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StudentViewController.viewWillAppear(Bool) -&gt; ():StudentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "classIT.students.count">
+            </PersistentString>
+            <PersistentString
+               value = "classIT.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassesViewController.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():ClassesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "classes">
+            </PersistentString>
+            <PersistentString
+               value = "studentVC.classIT ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassesViewController.actionShowCreateClassViewController(AnyObject) -&gt; ():ClassesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isViewingCreatClassViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
